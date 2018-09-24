@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "325292966620",
+    "firebase_url": "https://richpeople-56aa5.firebaseio.com",
+    "project_id": "richpeople-56aa5",
+    "storage_bucket": "richpeople-56aa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325292966620:android:95628837081cf66b",
+        "android_client_info": {
+          "package_name": "com.example.nede.richpeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325292966620-jmr5uur0ti6simth6i24aegphjmlutef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbYpjHf03Orot9nOtM14fFpOOdIXwimg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
