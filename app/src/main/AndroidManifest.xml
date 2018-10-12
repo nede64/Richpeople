@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".signin"
             android:theme="@style/rich">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,6 +21,8 @@
         <activity
             android:name=".Register_activity"
             android:theme="@style/rich" />
+
+        <activity android:name=".Forgotpsw" />
         <activity android:name=".Home"></activity>
     </application>
 
